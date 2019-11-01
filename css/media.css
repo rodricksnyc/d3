@@ -1,0 +1,37 @@
+@media (max-width: 767.98px) {
+	body{
+		width: 768px !important;
+	}
+}
+
+@media (max-width: 991.98px) {
+	.textPIAAC{
+		width: 500px;
+	}
+
+	.textPIAAC #SAE{
+		font-size: 24px;
+		margin-bottom: 5px;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.textPIAAC #SAE{
+		font-size: 26px;
+	}
+}
+
+@media (min-width: 1800px) {
+	/* .PIAACHeader, #content, .ncesHeader-wrapper{
+		max-width: 1800px;
+		margin: 0 auto;
+	}
+
+	.PIAACHeader{
+		padding: 0 25px;
+	}
+
+	.ncesHeader-wrapper{
+	  padding: 0px 25px;
+	} */
+}
