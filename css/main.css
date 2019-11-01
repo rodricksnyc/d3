@@ -1120,6 +1120,298 @@ display:block !important;
 
 }
 
+.jss1300 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss1180 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+
+.jss260 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss75 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss468 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss348 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss976 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss791 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss2180 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss1995 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss2180 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss1995 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+.jss1669 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss1484 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss2629 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss2444 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss740 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss1700 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss1940 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+.jss1755 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss1515 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss555 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss980 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss795 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss500 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+.jss315 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.jss1220 {
+    margin-bottom: 16px;
+    height: 320px;
+}
+
+.jss1035 {
+    margin-bottom: 16px;
+    height: 320px;
+}
+
+.jss1460 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+.jss1275 {
+    margin-bottom: 16px;
+    height: 300px;
+}
+
+.f-16 ul {
+  background-color: rgba(103, 191, 229, .1);
+}
+
+.f-16 ul.f-16.mb-2 {
+  background-color: rgba(121, 198, 147, .1);
+}
+
+
+
+@media (max-width:1377px) {
+
+  .jss1313 {
+    flex-grow: 0;
+    max-width: 100% !important;
+    flex-basis: 100% !important;
+}
+
+.js1519 {
+  flex-direction: column!important;
+}
+.js1553 {
+  flex-grow: 0;
+  max-width: 100% !important;
+  flex-basis: 100% !important;
+}
+
+  .jss1279 {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    flex-direction: column!important;
+}
+
+  .jss1039 {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    flex-direction: column !important;
+}
+
+.jss1073 {
+    flex-grow: 0;
+    max-width: 100% !important;
+    flex-basis: 100% !important;
+}
+
+	.jss113 {
+    flex-grow: 0;
+    max-width: 100% !important;
+    flex-basis: 100% !important;
+}
+
+.jss319 {
+    width: 100%;
+    display: flex;
+    flex-wrap:nowrap;
+    /* box-sizing: border-box; */
+    flex-direction: column !important;
+}
+
+.jss353 {
+    flex-grow: 0;
+    max-width: 100% !important;
+    flex-basis: 100% !important;
+}
+
+.jss353 {
+    flex-grow: 0;
+    max-width: 100% !important;
+    flex-basis: 100% !important;
+}
+
+.jss559 {
+    width: 100%;
+    display: flex;
+      flex-wrap:nowrap;
+    box-sizing: border-box;
+    flex-direction: column !important;
+}
+
+.jss319 {
+    width: 100%;
+    display: flex;
+    flex-wrap:nowrap !important;
+    box-sizing: border-box;
+    flex-direction: column !important;
+}
+
+
+.jss212 {
+    overflow: visible;
+}
+
+.jss593 {
+    flex-grow: 0;
+    max-width: 100% !important;
+    flex-basis: 100% !important;
+}
+
+
+	.jss79 {
+
+    display: flex;
+    flex-wrap:nowrap;
+    /* box-sizing: border-box; */
+    flex-direction: column !important;
+}
+
+
+  .jss319 {
+      width: 100%;
+      display: flex;
+      flex-wrap:nowrap !important;
+      box-sizing: border-box;
+      flex-direction: column !important;
+  }
+
+  .jss353 {
+    flex-grow: 0;
+    max-width: 100% !important;
+    flex-basis: 100% !important;
+}
+
+.jss799 {
+    width: 100%;
+    display: flex;
+
+    box-sizing: border-box;
+    flex-direction: column !important;
+  }
+
+  .jss833 {
+    flex-grow: 0;
+    max-width: 100% !important;
+    flex-basis: 100% !important;
+}
+
+
+
+}
+
+
 /*end Comparisons*/
 
 
